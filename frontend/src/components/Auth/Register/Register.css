@@ -1,0 +1,14 @@
+.register-container {
+width: 25%;
+min-width: 20rem;
+    margin: auto;
+    padding: 2rem;
+    border: 1.5px solid #1677ff;
+    border-radius: 8px;
+  }
+  
+  .register-link {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  
