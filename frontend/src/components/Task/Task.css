@@ -84,7 +84,7 @@
     margin-top: 10px;
   }
   
-  /* Kanban.module.css */
+
 .container {
     display: flex;
     flex-direction: row;
@@ -149,7 +149,7 @@
   }
   
 
-  /* Component.css */
+
 .search-sort-container {
     display: flex;
     justify-content: space-between;
